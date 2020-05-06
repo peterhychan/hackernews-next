@@ -1,1 +1,0 @@
-{"ast":null,"code":"export default {\n  comments: comments\n};","map":{"version":3,"sources":["/Users/peterhychan/Desktop/hackernews-next/components/CommentList.js"],"names":["comments"],"mappings":"AAAA,eAAe;AAAEA,EAAAA,QAAQ,EAARA;AAAF,CAAf","sourcesContent":["export default { comments };\n"]},"metadata":{},"sourceType":"module"}
